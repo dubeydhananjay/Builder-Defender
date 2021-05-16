@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c65a5d84acac17479857e6faf1bf5aa, type: 3}
+  m_Name: BuildingTypeListSO
+  m_EditorClassIdentifier: 
+  list:
+  - {fileID: 11400000, guid: f828dd40d734c2743ad6298ade9f7cef, type: 2}
+  - {fileID: 11400000, guid: 542715a6276b6d04aa1c5a5439fe7057, type: 2}
+  - {fileID: 11400000, guid: b5be0be1b0b03d749b4f28af9ec5b347, type: 2}
+  - {fileID: 11400000, guid: 39323df5278f5344a95058cb401dfea7, type: 2}
+  - {fileID: 11400000, guid: c58f7edefc1045b43a11571d8b41c47e, type: 2}
